@@ -48,7 +48,7 @@ boxplot(VitC ~ Cult, data = veggy,
 # Show the plot
 
 ```
-It looks like the C52 method is producing more Vitamin C than the C39 method since the C52 box is higher than 80, whereas the C39 box stops at about 75 
+It looks like the C52 method is producing more Vitamin C than the C39 method since the C52 box is higher than 70, whereas the C39 box stops at about 55 and if they were slid overtop of each other, they would not overlap 
 
 
 
