@@ -59,6 +59,7 @@ It looks like the C52 method is producing more Vitamin C than the C39 method sin
 ```{r}
 favstats(VitC~Cult,data=veggy)
 ```
+The chart proves that the bottom of c52 is the Q1 of the c52 box which is 58. And the top of C39 is the Q1 which is 46
 
 ## Inferential Results
 
