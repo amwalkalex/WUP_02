@@ -48,7 +48,7 @@ boxplot(VitC ~ Cult, data = veggy,
 # Show the plot
 
 ```
-
+It looks like the C52 method is producing more Vitamin C than the C39 method 
 
 
 ### Numerical Descriptive Results
